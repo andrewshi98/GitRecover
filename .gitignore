@@ -1,2 +1,5 @@
 # For Mac System
 .DS_Store
+
+# Temp File
+hash.temp
